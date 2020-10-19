@@ -1,8 +1,11 @@
 import React from 'react';
+import Dashboard from './Pages/Dashboard';
+
+import './styles/global.css'
 
 function App() {
   return (
-    <h1>Hello!</h1>
+    <Dashboard />
   );
 }
 

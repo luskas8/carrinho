@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root, body, button, input, textarea, a {
+    background: #fff;
+    font: 400 18px Poppins, sans-serif;
+}
